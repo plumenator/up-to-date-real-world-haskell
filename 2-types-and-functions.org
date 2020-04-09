@@ -241,7 +241,7 @@ few types. Here are several more of the most common base types.
   exactly 8, 16, and so on bits wide, in signed and unsigned
   flavours; we'll get to those later.)
 - An ~Integer~ value is a signed integer of unbounded size.
-  ~Integers~ are not used as often as ~Int~s, because they are
+  ~Integers~ are not used as often as ~Ints~, because they are
   more expensive both in performance and space consumption. On the
   other hand, ~Integer~ computations do not silently overflow, so
   they give more reliably correct answers.
