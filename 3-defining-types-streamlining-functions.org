@@ -1613,7 +1613,7 @@ x = let a = 1
 
 We need the amount of characters before the ~a~ to be equal to
 eight or the ~b~ won't be aligned and won't compile. Totally
-impracticall. It is better to break the expressions as below.
+impractical. It is better to break the expressions as below.
 
 #+CAPTION: TabAlign2.hs
 #+BEGIN_SRC haskell
